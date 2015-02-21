@@ -1,0 +1,17 @@
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            OParlamentarier
+tagline:          OParl TestClient
+paginate:         1
+baseurl:          /
+author:
+  name:           Knut Perseke
+  url:            https://twitter.com/knutator
+
+# Custom vars
+version:          1.0.0
+github:
+  repo:           https://github.com/knutator2/oparlamentarier
