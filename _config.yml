@@ -6,7 +6,6 @@ relative_permalinks: true
 title:            OParlamentarier
 tagline:          OParl TestClient
 paginate:         1
-baseurl:          /
 author:
   name:           Knut Perseke
   url:            https://twitter.com/knutator
